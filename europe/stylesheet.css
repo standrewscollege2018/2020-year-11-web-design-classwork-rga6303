@@ -1,0 +1,49 @@
+/*my style sheet
+
+/*set the back ground colour*/
+
+/*set all padding and margin to zero*/
+
+*{
+padding:0px;
+margin:0px;
+
+}
+body{
+  background-color: rgb(255, 100, 14);
+}
+/* set new font*/
+@font-face {
+  font-family: Sunday Best;
+  src: url(Sunday Best.ttf);
+}
+/* set hi format*/
+
+h1{
+  color:rgb(255, 255, 0);
+  font-family: Arial,Calibri,sans-serif;
+  margin: 35px,0px,20px,0px;
+
+}
+p{font-family: Arial,Calibri,sans-serif;
+  margin-bottom: 17px;
+  line-height: 20px
+}
+/*Formating links*/
+a{
+  color: rgb(183, 132, 245);
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  colour: rgb(150, 150, 25);
+}
+/*format lits*/
+ul{
+  margin:0px,0px,10px 35px;
+  font-family: Arial,Calibri,sans-serif;
+  list-style-type: upper-alpha;
+}
+li{
+  margin-bottom: 5px
+}
