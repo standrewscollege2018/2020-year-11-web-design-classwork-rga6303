@@ -10,7 +10,7 @@ margin:0px;
 
 }
 body{
-  background-color: rgb(255, 100, 14);
+  background-color: rgb(206, 237, 255);
 }
 /* set new font*/
 @font-face {
@@ -20,7 +20,7 @@ body{
 /* set hi format*/
 
 h1{
-  color:rgb(255, 255, 0);
+  color:rgb(150, 150, 200);
   font-family: Arial,Calibri,sans-serif;
   margin: 35px,0px,20px,0px;
 
@@ -31,7 +31,7 @@ p{font-family: Arial,Calibri,sans-serif;
 }
 /*Formating links*/
 a{
-  color: rgb(183, 132, 245);
+  color: rgb(183, 132, 150);
   text-decoration: none;
 }
 a:hover{

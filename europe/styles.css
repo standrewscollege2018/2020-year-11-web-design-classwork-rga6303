@@ -1,0 +1,10 @@
+.trial-container{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.intro{
+  padding:20px;
+}
+.main{
+  paddin:20px;
+}
